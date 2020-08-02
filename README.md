@@ -1,2 +1,2 @@
-# Resume_Deisgn
+# Resume_Design
 Resume Design formats
